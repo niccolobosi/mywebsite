@@ -1,0 +1,56 @@
+body {font-family: 'Merriweather', serif!important;
+font-family: 'Montserrat', sans-serif!important;
+font-family: 'Poppins', sans-serif!important; 
+}
+
+main{background-color: #edf2f4!important;}
+
+header {background-color: #335c67;
+	font-style: italic;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;}
+
+#backtogether{font-weight: 900!important;
+	font-size: 30px;
+color: #fff3b0;}
+
+
+.nav-link{color:#a8dadc!important;}
+.nav-link:hover{font-weight: bold;}
+
+.active{ font-weight: bolder;
+color: #edf2f4 !important;
+font-style: normal!important;}
+
+.navbar-nav{ margin-left: 500px;
+ 	width: 50%;}
+
+.nav-link{font-size: 25px;
+          margin-right: 80px;} 
+
+footer {background:url(../img/footer.png);
+	background-position: bottom; 
+	height: 200px;
+padding-top: 20px;}
+
+p.designed{padding-top: 15px;
+	font-size: 15px;
+	color: black;
+font-style: italic;
+font-weight: 600;}
+
+.paragrafo{ border-bottom:thin solid #e07a5f;
+	padding-top: 20px;
+	padding-bottom: 20px;
+text-align: center;}
+
+h4{padding-bottom: 30px;
+padding-top: 20px;}
+h2{padding-bottom: 20px;}
+
+#insta{color:#fff3b0!important;
+padding-left: 10px;
+font-style: bold!important;
+font-size: 20px!important;}
